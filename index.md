@@ -393,6 +393,11 @@ of code below the Schedule `<h2>` header below with
 `{% include custom-schedule.html %}`.
 {% endcomment %}
 
+{% if info.carpentry == "ds" %}
+<h2 id="syllabus">Syllabus</h2>
+{% remote_include {{lesson_meta}}/syllabus.md %}
+{% endif %}
+
 <h2 id="schedule">Schedule</h2>
 
 {% if info.carpentry == "swc" %}

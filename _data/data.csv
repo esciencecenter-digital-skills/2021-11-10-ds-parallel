@@ -1,2 +1,2 @@
 venue,address,country,latitude,longitude,humandate,humantime,startdate,enddate,instructor,helper,carpentry,curriculum,title,slug,flavor,eventbrite,ready
-Netherlands eScience Center,online,NA,NA,NA,"November 10-12, 2021",9:00,2021-11-10,2021-11-12,"Johan Hidding, Leon Oostrum","Hanno Spreeuw, Djura Smits, Robin Richardson",ds,ds-parallel,Parallel Programming in Python,2021-11-10-ds-parallel,NA,196539403647,NA
+Netherlands eScience Center,online,NA,NA,NA,"November 10-12, 2021",9:00-13:00,2021-11-10,2021-11-12,"Johan Hidding, Leon Oostrum","Hanno Spreeuw, Djura Smits, Robin Richardson",ds,ds-parallel,Parallel Programming in Python,2021-11-10-ds-parallel,NA,196539403647,NA
